@@ -1,5 +1,5 @@
 # VCO1
-Voltage controlled oscillator
+Voltage controlled oscillator with Saw, Pulse and Triangle outputs.
 
 Based on VCO 4069 from René Schmitz: https://www.schmitzbits.de/vco4069.html
 
